@@ -2,47 +2,44 @@
 
 #image1{
   position: relative;
-  max-width: 960px;
-  margin-left: 220px;
-   
 }
 #head{
   position: absolute;
   float: left;
   margin-left: 38%;
   top: 4%;
-  border: 1px black solid;
-  font-size: 20px;
+  font-size: 25px;
+  color: grey;
 }
 #head1{
   position: absolute;
   margin-left: 48%;
   top: 4%;
-  border: 1px black solid;
-  font-size: 20px;
+  font-size: 25px;
+  color: grey;
 }
 
 #head2{
   position: absolute;
   margin-left: 58%;
   top: 4%;
-  border: 1px black solid;
-  font-size: 20px;
+  font-size: 25px;
+  color: grey;
 }
 
 #head3{
   position: absolute;
   margin-left: 68%;
   top: 4%;
-  border: 1px black solid;
-  font-size: 20px;
+  font-size: 25px;
+  color: grey;
 }
 
 #logo{
   position: absolute;
   float: left;
   margin-left: 18%;
-  top: 0px;
+  top: 14px;
   
 }
 
@@ -75,10 +72,8 @@
 }
 
 #foot{
-  margin-left: 15%;
   position: relative;
   margin-top: 10%;
-  max-width: 960px;
 }
 
 #lorem{
