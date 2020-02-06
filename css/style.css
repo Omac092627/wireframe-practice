@@ -76,8 +76,9 @@
 
 #foot{
   margin-left: 15%;
-  position: absolute;
+  position: relative;
   margin-top: 10%;
+  max-width: 960px;
 }
 
 #lorem{
