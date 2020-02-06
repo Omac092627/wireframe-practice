@@ -1,13 +1,49 @@
+
+
+#image1{
+  position: relative;
+  max-width: 960px;
+  margin-left: 220px;
+   
+}
 #head{
-display: inline;
-margin-left: 10%
+  position: absolute;
+  float: left;
+  margin-left: 38%;
+  top: 4%;
+  border: 1px black solid;
+  font-size: 20px;
+}
+#head1{
+  position: absolute;
+  margin-left: 48%;
+  top: 4%;
+  border: 1px black solid;
+  font-size: 20px;
+}
 
+#head2{
+  position: absolute;
+  margin-left: 58%;
+  top: 4%;
+  border: 1px black solid;
+  font-size: 20px;
+}
 
+#head3{
+  position: absolute;
+  margin-left: 68%;
+  top: 4%;
+  border: 1px black solid;
+  font-size: 20px;
 }
 
 #logo{
-  display: inline;
-  margin-left: 16%;
+  position: absolute;
+  float: left;
+  margin-left: 18%;
+  top: 0px;
+  
 }
 
 #small1{
@@ -29,17 +65,35 @@ margin-left: 10%
 #big{
   margin-left: 220px;
   margin-right: 220px;
+  margin-top: 20px
 }
 
 #big2{
   margin-left:15%;
   margin-bottom: 25px;
+  float: left;
 }
 
 #foot{
-  margin-left: 5%;
+  margin-left: 15%;
+  position: absolute;
+  margin-top: 10%;
 }
 
-body{
- 
+#lorem{
+ margin-left: 50%;
+ margin-right: 20%;
+}
+
+#loremHead{
+  text-align: center;
+  font-size: larger;
+  text-emphasis: bold;
+}
+
+#loremBody:hover{
+  height: 200px;
+  overflow-y: scroll;
+  font-size: larger;
+  background-color: bisque;
 }
