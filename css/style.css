@@ -1,0 +1,45 @@
+#head{
+display: inline;
+margin-left: 10%
+
+
+}
+
+#logo{
+  display: inline;
+  margin-left: 16%;
+}
+
+#small1{
+  float: left;
+  padding: 25px 15px;
+  margin-left: 14%
+}
+
+#small2{
+  float: left;
+  margin-right: 10px;
+  padding: 25px 20px;
+}
+
+#small3{
+  padding: 25px 15px
+}
+
+#big{
+  margin-left: 220px;
+  margin-right: 220px;
+}
+
+#big2{
+  margin-left:15%;
+  margin-bottom: 25px;
+}
+
+#foot{
+  margin-left: 5%;
+}
+
+body{
+ 
+}
